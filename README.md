@@ -80,6 +80,7 @@ The generated files were:
 
 The training portions were used to train the model, while the testing
 portions were kept for evaluating the model.
+DATASET ADRESS:https://archive.ics.uci.edu/dataset/357/occupancy%2Bdete?utm_source=chatgpt.com
 
 ------------------------------------------------------------------------
 
